@@ -10,6 +10,12 @@
     <h1>Judul Paragraf</h1>    
 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, aspernatur. Ipsum, tenetur blanditiis. Expedita cupiditate ratione ex quasi laboriosam vero, dolore iusto doloremque culpa, molestiae architecto dolorem amet ipsam aut.</p>
 
+<ul>
+    <li>
+    satu
+    </li>
+<li>dua</li>
+</ul>
 
 </body>
 </html>
